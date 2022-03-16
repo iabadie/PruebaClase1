@@ -1,4 +1,3 @@
 Personaje
 fuerza = 200
 aceleración = 100
-destreza = 50
