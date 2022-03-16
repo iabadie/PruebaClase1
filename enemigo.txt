@@ -1,0 +1,3 @@
+Enemigo
+
+vida = 200
