@@ -2,4 +2,3 @@ Enemigo
 
 vida = 200
 fuerza = 100
-velocidad = 1000
